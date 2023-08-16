@@ -50,7 +50,11 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
-
+reports/
+scalastyle-on-compile.generated.xml
+scalastyle-output.xml
+scalastyle.txt
+spark-*-bin-*.tgz
 # Translations
 *.mo
 *.pot
